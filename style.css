@@ -1,0 +1,21 @@
+table{
+    padding: 20px;
+    border: 1px solid #444;
+    font-family: sans-serif;
+}
+td, th{
+    padding: 10px;
+    border: 1px solid #444;
+}
+tr:nth-child(2n){
+    background-color: #ccc;
+}
+
+form{
+    padding: 20px;
+    width: 400px;
+
+}
+input{
+    margin: 10px 20px;
+}
